@@ -1,0 +1,105 @@
+hyperskill_project:
+  id: 265
+  ide_files: https://hyperskill.org/api/projects/265/additional-files/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Fri, 08 Aug 2025 12:28:58 UTC"
+stages:
+  - id: 1339
+    step: 20572
+    is_completed: true
+  - id: 1340
+    step: 20573
+    is_completed: true
+  - id: 1341
+    step: 20574
+    is_completed: true
+  - id: 1342
+    step: 20575
+    is_completed: true
+  - id: 1343
+    step: 20576
+    is_completed: true
+  - id: 1344
+    step: 20577
+    is_completed: true
+  - id: 1345
+    step: 20578
+    is_completed: true
+  - id: 1346
+    step: 20579
+    is_completed: false
+topics:
+  0:
+    - title: Comments
+      theory_id: 8170
+    - title: JavaScript Code Style
+      theory_id: 9916
+    - title: Introduction to JavaScript
+      theory_id: 8016
+    - title: Writing first program
+      theory_id: 8154
+    - title: Multi-line programs
+      theory_id: 8162
+    - title: Declaring variables
+      theory_id: 8186
+    - title: Strings and numbers
+      theory_id: 8194
+    - title: Arithmetic operators
+      theory_id: 8372
+    - title: Boolean and Logical Operators
+      theory_id: 8471
+    - title: Type Conversion
+      theory_id: 8380
+    - title: Comparison Operators
+      theory_id: 8580
+    - title: Conditional Operators
+      theory_id: 8889
+  1:
+    - title: Naming variables
+      theory_id: 8364
+    - title: Reading user's input
+      theory_id: 45180
+    - title: Introduction to String
+      theory_id: 17747
+    - title: String Compare
+      theory_id: 18295
+    - title: Introduction to Regexp
+      theory_id: 17763
+  2:
+    - title: Functions
+      theory_id: 8388
+    - title: Defining functions
+      theory_id: 24012
+    - title: Anonymous function
+      theory_id: 26924
+    - title: Arrow Functions
+      theory_id: 8455
+    - title: Array
+      theory_id: 16141
+    - title: "Random: getting and generating"
+      theory_id: 18841
+  3:
+    - title: Array creation
+      theory_id: 16356
+    - title: Array checking methods
+      theory_id: 21570
+    - title: Increment and Decrement
+      theory_id: 9102
+    - title: "Loops: for and for...in"
+      theory_id: 9119
+    - title: Basic string methods
+      theory_id: 17755
+    - title: String searching
+      theory_id: 17771
+    - title: Template literals
+      theory_id: 8731
+  4:
+    - title: Array reducing
+      theory_id: 16628
+  5:
+    - title: "Loops: while and do...while"
+      theory_id: 9128
+  6:
+    - title: JavaScript debugging
+      theory_id: 18977
