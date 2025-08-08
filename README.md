@@ -1,7 +1,3 @@
-I'll help you create a README for your Hangman game project. Let me first explore the project structure to understand what files are included.# Hangman (JavaScript)
-
-A simple command-line Hangman game written in JavaScript. Guess the hidden programming language one letter at a time. Includes a session scoreboard and a basic menu.
-
 ## Features
 - Menu with options: play, show results, and exit
 - Random word selection from a small set of programming languages
